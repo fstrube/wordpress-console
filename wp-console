@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# Version: 1.0
+# Author: Franklin P. Strube <franklin.strube@gmail.com>
+# Copyright (c) 2013 Franklin P. Strube (http://franklinstrube.com)
+
+php -d auto_prepend_file=wp-load.php -a
+
